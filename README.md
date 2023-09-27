@@ -24,3 +24,6 @@ We harnessed the power of the Linear Regression algorithm to forecast sales. Thi
 To account for more complex relationships, we implemented a Decision Tree Regressor for sales forecasting. This model was evaluated using the same metrics—R-squared (R²) and RMSE. It allowed us to capture nonlinear patterns and interactions within the data.
 
 ## Results
+We compared the performance of both models to determine the best choice for sales prediction.
+- Overall Recommendation: Regression Tree Model
+- Justification: The regression tree model has a higher R^2 and lower RMSE, indicating a better fit and more accurate predictions.
